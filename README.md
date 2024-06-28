@@ -1,6 +1,8 @@
 # Anti VirusKu
 Version 1/V1
 
+-[Telegram Bot](https://t.me/antivirusku_bot)
+
 - A bot for scans files for potential threats such as trojans, malware, viruses, backdoors, and more.
 
 ---
